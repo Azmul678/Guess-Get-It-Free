@@ -1,6 +1,6 @@
 HFC Stands for :;
 
-High Fiber cable;
+High Fiber Cable;
 High Frequency Cable ;
 Hybrid Fiber-Coaxial;
 Hybrid Frequency Cable;
