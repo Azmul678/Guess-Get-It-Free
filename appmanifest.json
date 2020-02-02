@@ -1,11 +1,11 @@
 {
-	"name": "Quiz",
-	"short_name": "Quiz",
+	"name": "Guess & Get It Free",
+	"short_name": "Guess & Get It Free",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
-	"background_color": "#fd7701",
+	"background_color": "#ffc7ca",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",

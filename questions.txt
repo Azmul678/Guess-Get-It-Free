@@ -1,39 +1,39 @@
-What is 11.11?;
+HFC Stands for :;
 
-World's Biggest Sale Day;
-World's Biggest Sports Tournament ;
-World's Fashion Day;
-World's Fashion Day;
-World's Biggest Sale Day;
+High Fiber cable;
+High Frequency Cable ;
+Hybrid Fiber-Coaxial;
+Hybrid Frequency Cable;
+Hybrid Fiber-Coaxial;
 ;
 
 |
-FKM is the brand of?;
-Germany;
-Italy;
-Korea;
-World's Fashion Day;
-Germany;
+Power Capacity :;
+74W;
+76W;
+79W;
+72W;
+74W;
 |
-What is the name of our national flower?;
-Rose;
-Ginia;
-Curli flower;
-Water Rose;
-Water Rose;
+Response Time:;
+5ms;
+2ms;
+1ms;
+3ms;
+2ms;
 |
-Suzuki is the brand of?;
-Germany;
-Italy;
-Korea;
-World's Fashion Day;
-Germany;
+Display Resolution: ;
+1366x768;
+1920x1080;
+720x1280;
+3840x2160;
+1366x768;
 |
-What does Bangladesh's flag look like?;
-Blue background with yellow star in centre;
-Green background with red circle in centre;
-Red background with white circle in centre;
-World's Fashion Day;
-Green background with red circle in centre;
+Display Size (inches):;
+32;
+20;
+28;
+22;
+20;
 |
 
