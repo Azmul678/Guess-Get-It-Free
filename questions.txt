@@ -1,39 +1,39 @@
-HFC Stands for :;
+Chipset :;
 
-High Fiber Cable;
-High Frequency Cable ;
-Hybrid Fiber-Coaxial;
-Hybrid Frequency Cable;
-Hybrid Fiber-Coaxial;
+Sunplus 6350;
+Sunplus 1506 ;
+Sunplus 1512;
+Sunplus 1507a;
+Sunplus 6350;
 ;
 
 |
-Power Capacity :;
-74W;
-76W;
-79W;
-72W;
-74W;
+Waterproof Up to :;
+20m;
+24m;
+30m;
+21m;
+30m;
 |
-Response Time:;
-5ms;
-2ms;
-1ms;
-3ms;
-2ms;
+Camera :;
+20MP;
+16MP;
+12MP;
+32MP;
+20MP;
 |
-Display Resolution: ;
-1366x768;
-1920x1080;
-720x1280;
-3840x2160;
-1366x768;
+Display Type: ;
+LED;
+AMOLED;
+SUPER AMOLED;
+TFT LCD;
+TFT LCD;
 |
 Display Size (inches):;
-32;
-20;
-28;
-22;
-20;
+2;
+3;
+4;
+2.5;
+2;
 |
 
