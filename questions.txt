@@ -5,8 +5,6 @@ Sunplus 1506 ;
 Sunplus 1512;
 Sunplus 1507a;
 Sunplus 6350;
-;
-
 |
 Waterproof Up to :;
 20m;
