@@ -1,37 +1,37 @@
-Chipset :;
+Display Device :;
 
-Sunplus 6350;
-Sunplus 1506 ;
-Sunplus 1512;
-Sunplus 1507a;
-Sunplus 6350;
+HD;
+FULL HD ;
+4K;
+HDR HD;
+HDR HD;
 |
-Waterproof Up to :;
-20m;
-24m;
-30m;
-21m;
-30m;
+Response Time :;
+2ms;
+1ms;
+0.5ms;
+3ms;
+2ms;
 |
-Camera :;
-20MP;
-16MP;
-12MP;
-32MP;
-20MP;
+Power :;
+76W;
+22W;
+74W;
+75W;
+74W;
 |
-Display Type: ;
-LED;
-AMOLED;
-SUPER AMOLED;
-TFT LCD;
-TFT LCD;
+Refresh Rate : ;
+120Hz;
+200Hz;
+60Hz;
+144Hz;
+200Hz;
 |
 Display Size (inches):;
-2;
-3;
-4;
-2.5;
-2;
+24;
+32;
+40;
+21;
+24;
 |
 
