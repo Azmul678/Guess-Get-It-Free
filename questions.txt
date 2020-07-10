@@ -1,37 +1,37 @@
-Display Device :;
+What's the name of the Brand?;
 
-HD;
-FULL HD ;
-4K;
-HDR HD;
-HDR HD;
+Xiaomi;
+Remax;
+Awei;
+REDNER;
+REDNER;
 |
-Response Time :;
-2ms;
-1ms;
-0.5ms;
-3ms;
-2ms;
+What's the Frequency Response?;
+20 HZ ~ 20 KH;
+20 Hz ~ 40 KH;
+35 HZ ~ 20 KH;
+40 HZ ~ 20 KH;
+40 HZ ~ 20 KH;
 |
-Power :;
-76W;
-22W;
-74W;
-75W;
-74W;
+What form is Synonymous to Opera?;
+Chorus;
+Ballet;
+Orchestra;
+Firefox;
+Ballet;
 |
-Refresh Rate : ;
-120Hz;
-200Hz;
-60Hz;
-144Hz;
-200Hz;
+Which Instrument is from BD Origin? ;
+Guitar;
+Drums;
+Piano;
+Flute;
+Flute;
 |
-Display Size (inches):;
-24;
-32;
-40;
-21;
-24;
+Digital Audio is :;
+Continuous in time;
+Discrete in time;
+A wrinkle in time;
+A waste of time;
+Discrete in time;
 |
 
