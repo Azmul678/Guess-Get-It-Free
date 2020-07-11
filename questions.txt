@@ -1,37 +1,37 @@
-What's the name of the Brand?;
+Dimension :;
 
-Xiaomi;
-Remax;
-Awei;
-REDNER;
-REDNER;
+173 x 130 x 35 mm;
+202 x 133 x 29 mm;
+230 x 144 x 35 mm;
+240 x 135 x 51 mm;
+230 x 144 x 35 mm;
 |
-What's the Frequency Response?;
-20 HZ ~ 20 KH;
-20 Hz ~ 40 KH;
-35 HZ ~ 20 KH;
-40 HZ ~ 20 KH;
-40 HZ ~ 20 KH;
+Antenna :;
+3.5 dBi;
+5 dBi;
+7 dBi;
+8 dBi;
+5 dBi;
 |
-What form is Synonymous to Opera?;
-Chorus;
-Ballet;
-Orchestra;
-Firefox;
-Ballet;
+Maximum Data Transfer Rate :;
+100 Mbps;
+433 Mbps;
+450 Mbps;
+600 Mbps;
+433 Mbps;
 |
-Which Instrument is from BD Origin? ;
-Guitar;
-Drums;
-Piano;
-Flute;
-Flute;
+Each Router Has Two ;
+Addresses;
+Masks;
+Blocks;
+Segments;
+Addresses;
 |
-Digital Audio is :;
-Continuous in time;
-Discrete in time;
-A wrinkle in time;
-A waste of time;
-Discrete in time;
+WIFI stands for :;
+Wireless Fidelity;
+Wireless functioning;
+Wire Free Internet;
+None of the above;
+Wireless Fidelity;
 |
 
