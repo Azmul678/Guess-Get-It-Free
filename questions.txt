@@ -1,37 +1,36 @@
-Dimension :;
-
-173 x 130 x 35 mm;
-202 x 133 x 29 mm;
-230 x 144 x 35 mm;
-240 x 135 x 51 mm;
-230 x 144 x 35 mm;
+Oven Capacity :;
+15 Litres;
+23 Litres;
+25 Litres;
+30 Litres;
+23 Litres;
 |
-Antenna :;
-3.5 dBi;
-5 dBi;
-7 dBi;
-8 dBi;
-5 dBi;
+Power Capacity:;
+550 Watt;
+700 Watt;
+800 Watt;
+900 Watt;
+800 Watt;
 |
-Maximum Data Transfer Rate :;
-100 Mbps;
-433 Mbps;
-450 Mbps;
-600 Mbps;
-433 Mbps;
+Microwave Oven is used for:;
+Bathing;
+Cooking;
+Testing;
+No Idea;
+Cooking;
 |
-Each Router Has Two ;
-Addresses;
-Masks;
-Blocks;
-Segments;
-Addresses;
+Microwave Oven Invented in;
+1942;
+1947;
+1945;
+1944;
+1947;
 |
-WIFI stands for :;
-Wireless Fidelity;
-Wireless functioning;
-Wire Free Internet;
-None of the above;
-Wireless Fidelity;
+Measure of hotness known as :;
+Volume;
+Density;
+Temperature;
+Heat;
+Temperature;
 |
 
