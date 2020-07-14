@@ -1,36 +1,36 @@
-Oven Capacity :;
-15 Litres;
-23 Litres;
-25 Litres;
-30 Litres;
-23 Litres;
+What's the name of the Brand?;
+Xiaomi;
+Huawei;
+JoyLife;
+Hi-Tech;
+Xiaomi;
 |
-Power Capacity:;
-550 Watt;
-700 Watt;
-800 Watt;
-900 Watt;
-800 Watt;
+Battery Capacity?;
+170 mAh;
+190 mAh;
+200 mAh;
+290 mAh;
+190 mAh;
 |
-Microwave Oven is used for:;
-Bathing;
-Cooking;
-Testing;
-No Idea;
-Cooking;
+Aerobic exercise increases your?;
+Appetite;
+Eyesight;
+Heart Rate;
+Creativity;
+Heart Rate;
 |
-Microwave Oven Invented in;
-1942;
-1947;
-1945;
-1944;
-1947;
+What percentage of your body weight is water?;
+15% - 35%;
+35% - 55%;
+55% - 75%;
+75% - 95%;
+55% - 75%;
 |
-Measure of hotness known as :;
-Volume;
-Density;
-Temperature;
-Heat;
-Temperature;
+Name of Daraz Facebook fan group?;
+Daraz Family;
+Daraz Fan Club;
+I Love Daraz;
+We Darazian;
+Daraz Fan Club;
 |
 
