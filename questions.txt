@@ -1,30 +1,30 @@
 What's the name of the Brand?;
 Xiaomi;
-Huawei;
-JoyLife;
+IHW;
+Osaka;
 Hi-Tech;
-Xiaomi;
+IHW;
 |
-Battery Capacity?;
-170 mAh;
-190 mAh;
-200 mAh;
-290 mAh;
-190 mAh;
+Induction process is based on?;
+Electro-magnetic;
+Resistance heating;
+Thermal ion release;
+Nucleate heating;
+Electro-magnetic;
 |
-Aerobic exercise increases your?;
-Appetite;
-Eyesight;
-Heart Rate;
-Creativity;
-Heart Rate;
+Induction heating is possible :;
+On Ferrous Material;
+On Magnetic Material ;
+On Dc supply;
+On AC supply;
+On AC supply;
 |
-What percentage of your body weight is water?;
-15% - 35%;
-35% - 55%;
-55% - 75%;
-75% - 95%;
-55% - 75%;
+The modern method for food processing is;
+Eddy Current Heating;
+Dielectric Heating;
+Induction Heating;
+Resistance Heating;
+Dielectric Heating;
 |
 Name of Daraz Facebook fan group?;
 Daraz Family;
