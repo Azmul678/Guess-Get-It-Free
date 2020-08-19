@@ -1,36 +1,37 @@
-What's the name of the Brand?;
+Playback :;
+
+17-hour;
+12-hour;
+13-hour;
+10-hour;
+17-hour;
+|
+Chip :;
+U1;
+Q1;
+P1;
+R1;
+R1;
+|
+Mic for Calling :;
+Single;
+Dual;
+Tripple;
+Quad;
+Dual;
+|
+Transmission : ;
+Single;
+Dual;
+Tripple;
+Quad;
+Dual;
+|
+Brand:;
 Xiaomi;
-IHW;
-Osaka;
-Hi-Tech;
-IHW;
-|
-Induction process is based on?;
-Electro-magnetic;
-Resistance heating;
-Thermal ion release;
-Nucleate heating;
-Electro-magnetic;
-|
-Induction heating is possible :;
-On Ferrous Material;
-On Magnetic Material ;
-On Dc supply;
-On AC supply;
-On AC supply;
-|
-The modern method for food processing is;
-Eddy Current Heating;
-Dielectric Heating;
-Induction Heating;
-Resistance Heating;
-Dielectric Heating;
-|
-Name of Daraz Facebook fan group?;
-Daraz Family;
-Daraz Fan Club;
-I Love Daraz;
-We Darazian;
-Daraz Fan Club;
+Apple;
+Realme;
+Oppo;
+Realme;
 |
 
