@@ -1,37 +1,37 @@
-Battery :;
+Battery Energy :;
 
-1200mah;
-1800mah;
-1480mAh;
-1600mah;
-1200mah;
+37Wh 3.7V 10000mAh;
+37Wh 3.2V 20000mAh;
+37Wh 3.0V 5000mAh;
+30Wh 3.5V 10000mAh;
+37Wh 3.7V 10000mAh;
 |
-Bluetooth :;
-2.0;
-4.2;
-3.0;
-5.1;
-4.2;
+Output Interface :;
+Lightning;
+USB-C;
+USB-B;
+USB-A;
+USB-A;
 |
-Charging Time :;
-1H;
-1.5H;
-3H;
-2H;
-2H;
+Rated Capacity :;
+5000mAh;
+5500mAh;
+6500mAh;
+7500mAh;
+5500mAh;
 |
-Play Time : ;
-4-5H;
-3-4H;
-5-6H;
-6-7H;
-3-4H;
+Brand : ;
+Samsung;
+Awei;
+Xiaomi;
+Micropack;
+Xiaomi;
 |
-Speaker :;
-4";
-5";
-6";
-7";
-4";
+Battery Type :;
+Aluminium-ion;
+Lead–acid;
+Magnesium-ion;
+Lithium ion polymer;
+Lithium ion polymer;
 |
 
