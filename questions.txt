@@ -1,37 +1,37 @@
-Battery Energy :;
+Capacity (GB) :;
 
-37Wh 3.7V 10000mAh;
-37Wh 3.2V 20000mAh;
-37Wh 3.0V 5000mAh;
-30Wh 3.5V 10000mAh;
-37Wh 3.7V 10000mAh;
+64GB;
+16GB;
+32GB;
+128GB;
+64GB;
 |
-Output Interface :;
-Lightning;
-USB-C;
-USB-B;
-USB-A;
-USB-A;
+Interface :;
+USB 3.0;
+USB 3.1;
+USB 2.0;
+USB 2.1;
+USB 3.1;
 |
-Rated Capacity :;
-5000mAh;
-5500mAh;
-6500mAh;
-7500mAh;
-5500mAh;
+Weight :;
+5gm;
+6gm;
+7gm;
+8gm;
+8gm;
 |
-Brand : ;
-Samsung;
-Awei;
-Xiaomi;
-Micropack;
-Xiaomi;
+Dimensions : ;
+60 x 30 x 9mm (L x W x H);
+60 x 40 x 9mm (L x W x H);
+40 x 20 x 9mm (L x W x H);
+60 x 20 x 9mm (L x W x H);
+60 x 20 x 9mm (L x W x H);
 |
-Battery Type :;
-Aluminium-ion;
-Lead–acid;
-Magnesium-ion;
-Lithium ion polymer;
-Lithium ion polymer;
+Performance(Max.) :;
+Up to 50 MB/s read;
+Up to 40 MB/s read;
+Up to 30 MB/s read;
+Up to 100 MB/s read;
+Up to 100 MB/s read;
 |
 
