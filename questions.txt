@@ -1,37 +1,37 @@
-Capacity (GB) :;
+Bluetooth :;
 
-64GB;
-16GB;
-32GB;
-128GB;
-64GB;
+v4.0;
+v3.0;
+v2.0;
+v5.0;
+v4.0;
 |
-Interface :;
-USB 3.0;
-USB 3.1;
-USB 2.0;
-USB 2.1;
-USB 3.1;
+Transmission Distance :;
+100m;
+20m;
+30m;
+10m;
+10m;
 |
-Weight :;
-5gm;
-6gm;
-7gm;
-8gm;
-8gm;
+Stand-by Time :;
+500h;
+400h;
+200h;
+300h;
+200h;
 |
-Dimensions : ;
-60 x 30 x 9mm (L x W x H);
-60 x 40 x 9mm (L x W x H);
-40 x 20 x 9mm (L x W x H);
-60 x 20 x 9mm (L x W x H);
-60 x 20 x 9mm (L x W x H);
+Play Music Time : ;
+6h;
+5h;
+4h;
+3h;
+4h;
 |
-Performance(Max.) :;
-Up to 50 MB/s read;
-Up to 40 MB/s read;
-Up to 30 MB/s read;
-Up to 100 MB/s read;
-Up to 100 MB/s read;
+Frequency Range :;
+2.202G - 2.480G;
+2.302G - 2.480G;
+2.402G - 2.480G;
+2.380G - 2.480G;
+2.402G - 2.480G;
 |
 
