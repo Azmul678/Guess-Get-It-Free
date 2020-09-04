@@ -1,10 +1,10 @@
 Bluetooth :;
 
-v4.0;
+v4.2;
 v3.0;
-v2.0;
-v5.0;
 v4.0;
+v5.0;
+v4.2;
 |
 Transmission Distance :;
 100m;
@@ -13,25 +13,25 @@ Transmission Distance :;
 10m;
 10m;
 |
-Stand-by Time :;
-500h;
-400h;
-200h;
-300h;
-200h;
+Charging Time :;
+1-2hours;
+2-3hours;
+3-4hours;
+4-5hours;
+2-3hours;
 |
-Play Music Time : ;
+Play Time : ;
 6h;
 5h;
 4h;
 3h;
-4h;
+6h;
 |
-Frequency Range :;
-2.202G - 2.480G;
-2.302G - 2.480G;
-2.402G - 2.480G;
-2.380G - 2.480G;
-2.402G - 2.480G;
+Frequency Response :;
+380-18000HZ;
+80-18000HZ;
+280-18000HZ;
+180-18000HZ;
+80-18000HZ;
 |
 
