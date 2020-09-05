@@ -1,37 +1,37 @@
-Bluetooth :;
+Material :;
 
-v4.2;
-v3.0;
-v4.0;
-v5.0;
-v4.2;
+Plastic;
+Aluminum;
+Metal;
+Acrylic;
+Acrylic;
 |
-Transmission Distance :;
-100m;
-20m;
-30m;
-10m;
-10m;
+Thickness :;
+1Mm;
+2Mm;
+3Mm;
+4mm;
+1Mm;
 |
-Charging Time :;
-1-2hours;
-2-3hours;
-3-4hours;
-4-5hours;
-2-3hours;
+Size :;
+60cmx60Cm;
+40cmx60Cm;
+60cmx50Cm;
+55cmx60Cm;
+60cmx60Cm;
 |
-Play Time : ;
-6h;
-5h;
-4h;
-3h;
-6h;
+Type : ;
+Analog;
+Digital;
+Auditory;
+Tactile;
+Analog;
 |
-Frequency Response :;
-380-18000HZ;
-80-18000HZ;
-280-18000HZ;
-180-18000HZ;
-80-18000HZ;
+Wall Clock Type :;
+2D;
+3D;
+5D;
+7D;
+3D;
 |
 
