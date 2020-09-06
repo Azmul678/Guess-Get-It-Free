@@ -1,37 +1,37 @@
-Material :;
+Display :;
 
-Plastic;
-Aluminum;
-Metal;
-Acrylic;
-Acrylic;
+2.4";
+2.3";
+3.4";
+2.5";
+2.4";
 |
-Thickness :;
-1Mm;
-2Mm;
-3Mm;
-4mm;
-1Mm;
+Battery :;
+1100mAh;
+1200mAh;
+1300mAh;
+1400mAh;
+1400mAh;
 |
-Size :;
-60cmx60Cm;
-40cmx60Cm;
-60cmx50Cm;
-55cmx60Cm;
-60cmx60Cm;
+Phone Storage :;
+128 MB ;
+64 MB;
+256 MB;
+32 MB;
+256 MB;
 |
-Type : ;
-Analog;
-Digital;
-Auditory;
-Tactile;
-Analog;
+Led Torch : ;
+1mm;
+3mm;
+5mm;
+7mm;
+5mm;
 |
-Wall Clock Type :;
-2D;
-3D;
-5D;
-7D;
-3D;
+Camera :;
+VGA;
+1.3MP;
+1.4MP;
+2.1MP;
+VGA;
 |
 
