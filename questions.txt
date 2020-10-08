@@ -1,37 +1,37 @@
-Display :;
+Print Speed (Color) ISO :;
 
-2.4";
-2.3";
-3.4";
-2.5";
-2.4";
+Up to 5.5 ppm;
+Up to 3.5 ppm;
+Up to 4.5 ppm;
+Up to 2.5 ppm;
+Up to 5.5 ppm;
 |
-Battery :;
-1100mAh;
-1200mAh;
-1300mAh;
-1400mAh;
-1400mAh;
+Print Speed (Color) Draft :;
+Up to 10 ppm ;
+Up to 06 ppm ;
+Up to 16 ppm ;
+Up to 26 ppm ;
+Up to 16 ppm ;
 |
-Phone Storage :;
-128 MB ;
-64 MB;
-256 MB;
-32 MB;
-256 MB;
+Print Speed (Black) ISO :;
+Up to 5.5 ppm;
+Up to 3.5 ppm;
+Up to 4.5 ppm;
+Up to 7.5 ppm;
+Up to 7.5 ppm;
 |
-Led Torch : ;
-1mm;
-3mm;
-5mm;
-7mm;
-5mm;
+Print Speed (Black) Draft : ;
+Up to 10 ppm ;
+Up to 06 ppm ;
+Up to 20 ppm ;
+Up to 26 ppm ;
+Up to 20 ppm ;
 |
-Camera :;
-VGA;
-1.3MP;
-1.4MP;
-2.1MP;
-VGA;
+Print Resolution (Black) :;
+Up to 1200 x 1200;
+Up to 1400 x 1200;
+Up to 1600 x 1200;
+Up to 1920 x 1080;
+Up to 1200 x 1200;
 |
 
