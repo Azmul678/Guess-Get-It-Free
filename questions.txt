@@ -1,37 +1,37 @@
-Print Speed (Color) ISO :;
+Screen Resolution :;
 
-Up to 5.5 ppm;
-Up to 3.5 ppm;
-Up to 4.5 ppm;
-Up to 2.5 ppm;
-Up to 5.5 ppm;
+240x240;
+380x380;
+480x480;
+640x640;
+240x240;
 |
-Print Speed (Color) Draft :;
-Up to 10 ppm ;
-Up to 06 ppm ;
-Up to 16 ppm ;
-Up to 26 ppm ;
-Up to 16 ppm ;
+ROM :;
+512MB ;
+256MB ;
+768MB;
+128MB;
+128MB ;
 |
-Print Speed (Black) ISO :;
-Up to 5.5 ppm;
-Up to 3.5 ppm;
-Up to 4.5 ppm;
-Up to 7.5 ppm;
-Up to 7.5 ppm;
+Screen Size :;
+3.28 inch;
+4.28 inch;
+1.28 inch;
+2.28 inch;
+1.28 inch;
 |
-Print Speed (Black) Draft : ;
-Up to 10 ppm ;
-Up to 06 ppm ;
-Up to 20 ppm ;
-Up to 26 ppm ;
-Up to 20 ppm ;
+Weight : ;
+54g ;
+55g ;
+56g ;
+57g ;
+54g ;
 |
-Print Resolution (Black) :;
-Up to 1200 x 1200;
-Up to 1400 x 1200;
-Up to 1600 x 1200;
-Up to 1920 x 1080;
-Up to 1200 x 1200;
+Battery Capacity :;
+380mAh;
+180mAh;
+280mAh;
+340mAh;
+340mAh;
 |
 
