@@ -1,37 +1,37 @@
-Screen Resolution :;
+Capacity :;
 
-240x240;
-380x380;
-480x480;
-640x640;
-240x240;
+1.8 Liters;
+2.8 Liters;
+3.8 Liters;
+4.8 Liters;
+1.8 Liters;
 |
-ROM :;
-512MB ;
-256MB ;
-768MB;
-128MB;
-128MB ;
+POWER SOURCE :;
+230-240V ;
+210-240V ;
+200-240V;
+220-240V;
+220-240V ;
 |
-Screen Size :;
-3.28 inch;
-4.28 inch;
-1.28 inch;
-2.28 inch;
-1.28 inch;
+Pot Material :;
+Copper;
+Plastic;
+Aluminum;
+Silver;
+Aluminum;
 |
-Weight : ;
-54g ;
-55g ;
-56g ;
-57g ;
-54g ;
+Coating : ;
+Non-Stick ;
+Gravure ;
+Conductive ;
+Stick ;
+Non-Stick ;
 |
-Battery Capacity :;
-380mAh;
-180mAh;
-280mAh;
-340mAh;
-340mAh;
+POWER :;
+60Hz;
+30Hz;
+50Hz;
+40Hz;
+50Hz;
 |
 
