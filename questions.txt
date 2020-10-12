@@ -1,37 +1,37 @@
-Capacity :;
+Power (W) :;
 
-1.8 Liters;
-2.8 Liters;
-3.8 Liters;
-4.8 Liters;
-1.8 Liters;
+74Wh;
+78Wh;
+72Wh;
+70Wh;
+74Wh;
 |
-POWER SOURCE :;
-230-240V ;
-210-240V ;
-200-240V;
-220-240V;
-220-240V ;
+Weight :;
+0.2200 kg;
+0.3200 kg;
+0.4200 kg;
+0.5200 kg;
+0.4200 kg;
 |
-Pot Material :;
-Copper;
-Plastic;
-Aluminum;
-Silver;
-Aluminum;
+Battery Capacity :;
+20000mAh;
+10000mAh;
+30000mAh;
+15000mAh;
+20000mAh;
 |
-Coating : ;
-Non-Stick ;
-Gravure ;
-Conductive ;
-Stick ;
-Non-Stick ;
+Power Input : ;
+Up to 22W ;
+Up to 20W ;
+Up to 15W ;
+Up to 18W ;
+Up to 18W ;
 |
-POWER :;
-60Hz;
-30Hz;
-50Hz;
-40Hz;
-50Hz;
+Ports :;
+4;
+5;
+6;
+7;
+4;
 |
 
