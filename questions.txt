@@ -1,37 +1,36 @@
-Power (W) :;
-
-74Wh;
-78Wh;
-72Wh;
-70Wh;
-74Wh;
+Storage Capacity :;
+128GB;
+256GB;
+64GB;
+32GB;
+128GB;
 |
-Weight :;
-0.2200 kg;
-0.3200 kg;
-0.4200 kg;
-0.5200 kg;
-0.4200 kg;
+Interface Type :;
+USB 3.1;
+USB 3.0;
+USB 2.0;
+USB 2.1;
+USB 3.0;
 |
-Battery Capacity :;
-20000mAh;
-10000mAh;
-30000mAh;
-15000mAh;
-20000mAh;
+Transfer Rate :;
+Up to 100MB/S;
+Up to 140MB/S;
+Up to 120MB/S;
+Up to 150MB/S;
+Up to 150MB/S;
 |
-Power Input : ;
-Up to 22W ;
-Up to 20W ;
-Up to 15W ;
-Up to 18W ;
-Up to 18W ;
+Weight : ;
+90g ;
+80g;
+70g ;
+60g ;
+90g ;
 |
-Ports :;
-4;
-5;
-6;
-7;
-4;
+Material :;
+Metal;
+Plastic;
+Aluminium;
+Copper;
+Metal;
 |
 
