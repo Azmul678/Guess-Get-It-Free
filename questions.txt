@@ -1,36 +1,36 @@
-Storage Capacity :;
-128GB;
-256GB;
-64GB;
-32GB;
-128GB;
+External Power Supply :;
+9V / 0.6A;
+9V / 2.4A;
+9V / 3.0A;
+9V / 1.6A;
+9V / 0.6A;
 |
-Interface Type :;
-USB 3.1;
-USB 3.0;
-USB 2.0;
-USB 2.1;
-USB 3.0;
+Dimensions ( W x D x H ) :;
+8.1 x 5.7 x 1.9 in.;
+6.1 x 5.5 x 1.4 in.;
+5.1 x 5.7 x 1.8 in.;
+9.1 x 5.7 x 1.4 in.;
+9.1 x 5.7 x 1.4 in.;
 |
-Transfer Rate :;
-Up to 100MB/S;
-Up to 140MB/S;
-Up to 120MB/S;
-Up to 150MB/S;
-Up to 150MB/S;
+Frequency :;
+2.4-2.4835GHz;
+2.4GHz;
+5GHz;
+5.0-5.4835GHz;
+2.4-2.4835GHz;
 |
-Weight : ;
-90g ;
-80g;
-70g ;
-60g ;
-90g ;
+Wireless Speed : ;
+350Mbps ;
+300Mbps;
+150Mbps ;
+450Mbps ;
+450Mbps ;
 |
-Material :;
-Metal;
-Plastic;
-Aluminium;
-Copper;
-Metal;
+Transmit Power :;
+CE: <40dBm(5.0GHz);
+CE: <10dBm(2.48GHz);
+CE: <20dBm(2.4GHz);
+CE: <30dBm(2.5GHz);
+CE: <20dBm(2.4GHz);
 |
 
