@@ -1,36 +1,36 @@
-External Power Supply :;
-9V / 0.6A;
-9V / 2.4A;
-9V / 3.0A;
-9V / 1.6A;
-9V / 0.6A;
+Size :;
+56";
+26";
+24";
+16";
+56";
 |
-Dimensions ( W x D x H ) :;
-8.1 x 5.7 x 1.9 in.;
-6.1 x 5.5 x 1.4 in.;
-5.1 x 5.7 x 1.8 in.;
-9.1 x 5.7 x 1.4 in.;
-9.1 x 5.7 x 1.4 in.;
+Material :;
+Copper body;
+Aluminium body;
+Silver body;
+Metal body;
+Metal body;
 |
-Frequency :;
-2.4-2.4835GHz;
-2.4GHz;
-5GHz;
-5.0-5.4835GHz;
-2.4-2.4835GHz;
+Power (W) :;
+65;
+85;
+75;
+55;
+85;
 |
-Wireless Speed : ;
-350Mbps ;
-300Mbps;
-150Mbps ;
-450Mbps ;
-450Mbps ;
+Voltage (V) : ;
+240 ;
+280;
+480 ;
+220 ;
+220 ;
 |
-Transmit Power :;
-CE: <40dBm(5.0GHz);
-CE: <10dBm(2.48GHz);
-CE: <20dBm(2.4GHz);
-CE: <30dBm(2.5GHz);
-CE: <20dBm(2.4GHz);
+Place of Origin :;
+Japan;
+India;
+Bangladesh;
+China;
+Bangladesh;
 |
 
