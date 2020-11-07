@@ -1,36 +1,36 @@
-Size :;
-56";
-26";
-24";
-16";
-56";
+Storage :;
+1TB;
+512GB;
+768GB;
+2TB;
+1TB;
 |
-Material :;
-Copper body;
-Aluminium body;
-Silver body;
-Metal body;
-Metal body;
+Ram :;
+8GB;
+2GB;
+12GB;
+4GB;
+4GB;
 |
-Power (W) :;
-65;
-85;
-75;
-55;
-85;
+Display :;
+12”;
+13”;
+14”;
+15”;
+14”;
 |
-Voltage (V) : ;
-240 ;
-280;
-480 ;
-220 ;
-220 ;
+Graphics Chipset : ;
+Intel UHD Graphics 600 ;
+Intel UHD Graphics 660;
+Intel UHD Graphics 620 ;
+Intel UHD Graphics 610 ;
+Intel UHD Graphics 610 ;
 |
-Place of Origin :;
-Japan;
-India;
-Bangladesh;
-China;
-Bangladesh;
+Processor :;
+Intel Celeron ;
+Intel Core i3;
+Intel Core i5 ;
+Intel Core i7 ;
+Intel Celeron ;
 |
 
